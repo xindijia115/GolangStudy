@@ -1,8 +1,8 @@
 package main
 
 import (
+	"GoProject/src/study/oop/structdemo08/model"
 	"fmt"
-	"study/oop/structdemo08/model"
 )
 
 func main() {
